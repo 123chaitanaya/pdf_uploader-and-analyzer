@@ -1,0 +1,8 @@
+{
+  "api_base_url": "http://127.0.0.1:8013/api/v1",
+  "email": "admin@example.com",
+  "abdm_client_id": "",
+  "abdm_client_secret": "",
+  "app_login_username": "admin",
+  "app_login_password": "admin123"
+}

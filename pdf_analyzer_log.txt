@@ -1,0 +1,15 @@
+[2026-04-16 19:54:10] Folder mode: Found 3 PDF file(s) in 'C:/Users/Hp/Downloads/pdf'
+[2026-04-16 19:54:10] [1/3] Processing: 27.pdf
+[2026-04-16 19:54:10]   Data -> ID: 118, Name: UMED, Mobile: None
+[2026-04-16 19:54:10]   Report PDF: 27.pdf | Date: 16/04/2026
+[2026-04-16 19:54:10]   Result: Updated existing record (CSV)
+[2026-04-16 19:54:10] [2/3] Processing: 28.pdf
+[2026-04-16 19:54:10]   Data -> ID: 131, Name: RER46 Pt. Name : RER46, Mobile: None
+[2026-04-16 19:54:10]   Report PDF: 28.pdf | Date: 16/04/2026
+[2026-04-16 19:54:10]   Result: Updated existing record (CSV)
+[2026-04-16 19:54:10] [3/3] Processing: 29.pdf
+[2026-04-16 19:54:11]   Data -> ID: 126, Name: FSFDSF Pt. Name : FSFDSF, Mobile: None
+[2026-04-16 19:54:11]   Report PDF: 29.pdf | Date: 16/04/2026
+[2026-04-16 19:54:11]   Result: Updated existing record (CSV)
+[2026-04-16 19:54:11] ==================================================
+[2026-04-16 19:54:11] Processing complete - 3 succeeded, 0 failed out of 3 PDF(s).

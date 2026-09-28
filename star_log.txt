@@ -1,0 +1,1 @@
+[2026-04-11 13:42:20] Error: provide a valid PDF folder or CSV directory/file.

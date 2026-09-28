@@ -1,0 +1,155 @@
+[2026-04-06 10:06:35] ✓ Voice listener ready. Click '🎙️ Enable Voice' to start listening for commands.
+[2026-04-06 10:07:52] Cleared uploaded files list.
+[2026-04-10 08:51:22] Voice listener ready. Click 'Enable Voice' to start listening for commands.
+[2026-04-11 13:08:44] Voice listener ready. Click 'Enable Voice' to start listening for commands.
+[2026-04-11 13:17:18] Voice listener ready. Click 'Enable Voice' to start listening for commands.
+[2026-04-11 13:17:30] Voice commands ENABLED - listening for commands...
+[2026-04-11 13:17:30] Voice listener error: Could not find PyAudio; check installation
+[2026-04-11 13:17:30] Voice listener error: Could not find PyAudio; check installation
+[2026-04-11 13:17:30] Voice listener error: Could not find PyAudio; check installation
+[2026-04-11 13:17:31] Voice listener error: Could not find PyAudio; check installation
+[2026-04-11 13:17:31] Voice listener error: Could not find PyAudio; check installation
+[2026-04-11 13:17:31] Voice listener error: Could not find PyAudio; check installation
+[2026-04-11 13:17:31] Voice listener error: Could not find PyAudio; check installation
+[2026-04-11 13:17:31] Voice listener error: Could not find PyAudio; check installation
+[2026-04-11 13:17:31] Voice listener error: Could not find PyAudio; check installation
+[2026-04-11 13:17:31] Voice listener error: Could not find PyAudio; check installation
+[2026-04-11 13:17:31] Voice listener error: Could not find PyAudio; check installation
+[2026-04-11 13:17:31] Voice listener error: Could not find PyAudio; check installation
+[2026-04-11 13:17:32] Voice listener error: Could not find PyAudio; check installation
+[2026-04-11 13:17:32] Voice listener error: Could not find PyAudio; check installation
+[2026-04-11 13:17:32] Voice listener error: Could not find PyAudio; check installation
+[2026-04-11 13:17:32] Voice listener error: Could not find PyAudio; check installation
+[2026-04-11 13:17:32] Voice listener error: Could not find PyAudio; check installation
+[2026-04-11 13:17:32] Voice listener error: Could not find PyAudio; check installation
+[2026-04-11 13:17:32] Voice listener error: Could not find PyAudio; check installation
+[2026-04-11 13:17:32] Voice listener error: Could not find PyAudio; check installation
+[2026-04-11 13:17:32] Voice listener error: Could not find PyAudio; check installation
+[2026-04-11 13:17:33] Voice listener error: Could not find PyAudio; check installation
+[2026-04-11 13:17:33] Voice listener error: Could not find PyAudio; check installation
+[2026-04-11 13:17:33] Voice listener error: Could not find PyAudio; check installation
+[2026-04-11 13:17:33] Voice listener error: Could not find PyAudio; check installation
+[2026-04-11 13:17:33] Voice listener error: Could not find PyAudio; check installation
+[2026-04-11 13:17:33] Voice listener error: Could not find PyAudio; check installation
+[2026-04-11 13:17:33] Voice listener error: Could not find PyAudio; check installation
+[2026-04-11 13:17:33] Voice commands DISABLED
+[2026-04-11 13:22:53] Voice listener ready. Click 'Enable Voice' to start listening for commands.
+[2026-04-11 13:23:56] Using default system microphone
+[2026-04-11 13:24:01] Recognizing online (Google)...
+[2026-04-11 13:24:02] Recognition error: 
+[2026-04-11 13:24:02] Could not understand audio.
+[2026-04-11 13:24:09] Using default system microphone
+[2026-04-11 13:24:14] Offline recognizer not ready, falling back to Google...
+[2026-04-11 13:24:17] Recognition error: 
+[2026-04-11 13:24:17] Could not understand audio.
+[2026-04-11 13:24:49] Using default system microphone
+[2026-04-11 13:24:54] Offline recognizer not ready, falling back to Google...
+[2026-04-11 13:24:55] Recognition error: 
+[2026-04-11 13:24:55] Could not understand audio.
+[2026-04-11 13:24:56] Using default system microphone
+[2026-04-11 13:25:01] Offline recognizer not ready, falling back to Google...
+[2026-04-11 13:25:02] Heard: password 12 → Converting to: password12
+[2026-04-11 13:25:02] Success! Entered: password12
+[2026-04-11 13:25:08] Using default system microphone
+[2026-04-11 13:25:13] Offline recognizer not ready, falling back to Google...
+[2026-04-11 13:25:14] Success! Entered: Hospital Delhi
+[2026-04-11 13:25:19] Using default system microphone
+[2026-04-11 13:25:24] Offline recognizer not ready, falling back to Google...
+[2026-04-11 13:25:25] Success! Entered: Hospital 123
+[2026-04-11 13:25:31] Using default system microphone
+[2026-04-11 13:25:36] Offline recognizer not ready, falling back to Google...
+[2026-04-11 13:25:37] Recognition error: 
+[2026-04-11 13:25:37] Could not understand audio.
+[2026-04-11 13:25:39] Using default system microphone
+[2026-04-11 13:25:44] Offline recognizer not ready, falling back to Google...
+[2026-04-11 13:25:51] Success! Entered: two capital
+[2026-04-11 13:25:56] Using default system microphone
+[2026-04-11 13:26:01] Offline recognizer not ready, falling back to Google...
+[2026-04-11 13:26:02] Recognition error: 
+[2026-04-11 13:26:02] Could not understand audio.
+[2026-04-11 13:26:12] Using default system microphone
+[2026-04-11 13:26:17] Recognizing online (Google)...
+[2026-04-11 13:26:18] Recognition error: 
+[2026-04-11 13:26:18] Could not understand audio.
+[2026-04-11 13:26:22] Using default system microphone
+[2026-04-11 13:26:27] Recognizing online (Google)...
+[2026-04-11 13:26:28] Recognition error: 
+[2026-04-11 13:26:28] Could not understand audio.
+[2026-04-11 13:26:34] Voice commands ENABLED - listening for commands...
+[2026-04-11 13:26:35] Voice listener error: Could not find PyAudio; check installation
+[2026-04-11 13:26:35] Voice listener error: Could not find PyAudio; check installation
+[2026-04-11 13:26:35] Voice listener error: Could not find PyAudio; check installation
+[2026-04-11 13:26:35] Voice listener error: Could not find PyAudio; check installation
+[2026-04-11 13:26:35] Voice listener error: Could not find PyAudio; check installation
+[2026-04-11 13:26:35] Voice listener error: Could not find PyAudio; check installation
+[2026-04-11 13:26:35] Voice listener error: Could not find PyAudio; check installation
+[2026-04-11 13:26:35] Voice listener error: Could not find PyAudio; check installation
+[2026-04-11 13:26:35] Voice listener error: Could not find PyAudio; check installation
+[2026-04-11 13:26:36] Voice listener error: Could not find PyAudio; check installation
+[2026-04-11 13:26:36] Voice listener error: Could not find PyAudio; check installation
+[2026-04-11 13:26:36] Voice listener error: Could not find PyAudio; check installation
+[2026-04-11 13:26:36] Voice listener error: Could not find PyAudio; check installation
+[2026-04-11 13:26:36] Voice listener error: Could not find PyAudio; check installation
+[2026-04-11 13:26:36] Voice listener error: Could not find PyAudio; check installation
+[2026-04-11 13:26:36] Voice listener error: Could not find PyAudio; check installation
+[2026-04-11 13:26:36] Voice listener error: Could not find PyAudio; check installation
+[2026-04-11 13:26:36] Voice listener error: Could not find PyAudio; check installation
+[2026-04-11 13:26:37] Voice listener error: Could not find PyAudio; check installation
+[2026-04-11 13:26:37] Voice listener error: Could not find PyAudio; check installation
+[2026-04-11 13:26:37] Voice listener error: Could not find PyAudio; check installation
+[2026-04-11 13:26:37] Voice listener error: Could not find PyAudio; check installation
+[2026-04-11 13:26:37] Voice listener error: Could not find PyAudio; check installation
+[2026-04-11 13:26:37] Voice listener error: Could not find PyAudio; check installation
+[2026-04-11 13:26:37] Voice commands DISABLED
+[2026-04-11 13:41:16] Voice listener ready. Click 'Enable Voice' to start listening for commands.
+[2026-04-11 13:41:16] ✓ Voice listener ready (using sounddevice).
+[2026-04-11 13:41:30] Voice commands ENABLED - listening for commands...
+[2026-04-11 13:41:47] Voice commands DISABLED
+[2026-04-11 13:41:49] Voice commands ENABLED - listening for commands...
+[2026-04-11 13:41:56] Voice commands DISABLED
+[2026-04-11 13:42:08] Voice commands ENABLED - listening for commands...
+[2026-04-11 13:42:09] Voice commands DISABLED
+[2026-04-11 13:42:10] Voice commands ENABLED - listening for commands...
+[2026-04-11 13:42:20] 🎤 Command heard: start
+[2026-04-11 13:42:20] → Executing: Start Star Upload
+[2026-04-11 13:42:29] 🎤 Command heard: start whatsapp
+[2026-04-11 13:42:29] → Executing: Start WhatsApp Upload
+[2026-04-11 13:42:34] Using default system microphone
+[2026-04-11 13:42:38] Audio boosted by 5.4x
+[2026-04-11 13:42:38] Recognizing online (Google)...
+[2026-04-11 13:42:39] Success! Entered: Hospital 12th
+[2026-04-11 13:42:43] Using default system microphone
+[2026-04-11 13:42:45] Audio boosted by 9.7x
+[2026-04-11 13:42:45] Recognizing online (Google)...
+[2026-04-11 13:42:46] Recognition error: 
+[2026-04-11 13:42:46] Could not understand audio.
+[2026-04-11 13:42:49] Using default system microphone
+[2026-04-11 13:42:53] Audio boosted by 8.7x
+[2026-04-11 13:42:53] Recognizing online (Google)...
+[2026-04-11 13:42:53] Heard: simple → Converting to: simple
+[2026-04-11 13:42:53] Success! Entered: simple
+[2026-04-16 19:53:32] Voice listener ready. Click 'Enable Voice' to start listening for commands.
+[2026-04-16 20:04:32] Voice listener ready. Click 'Enable Voice' to start listening for commands.
+[2026-04-18 20:46:53] Voice listener ready. Click 'Enable Voice' to start listening for commands.
+[2026-04-18 20:48:27] Voice listener ready. Click 'Enable Voice' to start listening for commands.
+[2026-04-18 20:52:19] No uploaded files list to clear.
+[2026-04-18 21:09:58] Voice listener ready. Click 'Enable Voice' to start listening for commands.
+[2026-04-18 21:12:10] Voice listener ready. Click 'Enable Voice' to start listening for commands.
+[2026-04-18 21:15:36] Voice listener ready. Click 'Enable Voice' to start listening for commands.
+[2026-04-18 21:18:44] Voice listener ready. Click 'Enable Voice' to start listening for commands.
+[2026-04-18 21:33:19] Voice listener ready. Click 'Enable Voice' to start listening for commands.
+[2026-04-18 21:34:08] Voice listener ready. Click 'Enable Voice' to start listening for commands.
+[2026-04-27 08:29:58] Voice listener ready. Click 'Enable Voice' to start listening for commands.
+[2026-04-27 09:06:14] Voice listener ready. Click 'Enable Voice' to start listening for commands.
+[2026-04-27 09:06:59] Voice listener ready. Click 'Enable Voice' to start listening for commands.
+[2026-04-27 09:09:54] Voice listener ready. Click 'Enable Voice' to start listening for commands.
+[2026-04-27 09:10:54] Voice listener ready. Click 'Enable Voice' to start listening for commands.
+[2026-04-27 09:21:55] Voice listener ready. Click 'Enable Voice' to start listening for commands.
+[2026-04-27 09:28:53] Voice listener ready. Click 'Enable Voice' to start listening for commands.
+[2026-04-27 09:30:42] Voice listener ready. Click 'Enable Voice' to start listening for commands.
+[2026-04-27 09:34:37] Voice listener ready. Click 'Enable Voice' to start listening for commands.
+[2026-04-27 09:36:26] Voice listener ready. Click 'Enable Voice' to start listening for commands.
+[2026-04-27 09:38:33] Voice commands ENABLED - listening for commands...
+[2026-04-27 09:38:35] Voice commands DISABLED
+[2026-04-27 09:41:15] Voice listener ready. Click 'Enable Voice' to start listening for commands.
+[2026-04-27 09:43:37] Voice listener ready. Click 'Enable Voice' to start listening for commands.
